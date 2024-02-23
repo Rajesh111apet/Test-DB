@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448879076636",
+    "project_id": "testdb-d80ba",
+    "storage_bucket": "testdb-d80ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448879076636:android:352d2fd0bfe264636986d9",
+        "android_client_info": {
+          "package_name": "com.testdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDTBGUlV8p7a-LGzEto_xH7B76Upd_Wrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
